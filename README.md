@@ -13,4 +13,14 @@ If you find this project is helpful, please cite our papers:
 }
 
 
+@article{xie2017deep,
+  title={Deep learning in visual computing and signal processing},
+  author={Xie, Danfeng and Zhang, Lei and Bai, Li},
+  journal={Applied Computational Intelligence and Soft Computing},
+  volume={2017},
+  number={1},
+  pages={1320780},
+  year={2017},
+  publisher={Wiley Online Library}
+}
 
